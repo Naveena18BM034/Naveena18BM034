@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=1728518400&v=beta&t=S5TmLHY6XqrEtVvF_5MnfsACzVZW8qAcILYTMCbQ1f8)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Naveena</h1>
 <h3 align="center">A passionate person who is looking for the transition in data sciene</h3>
-<img src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" alt="Coding" width="400" align="right"/>
+<img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" alt="Coding" width="400" align="right"/>
 
 
 
